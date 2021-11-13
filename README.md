@@ -1,6 +1,6 @@
 > Update: You should use `ipfs://` instead of `https://ipfs.io/` for your tokenURI
 
-# nft-mix
+# nft-py-v2
 
 <br/>
 <p align="center">
