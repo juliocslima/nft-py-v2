@@ -1,4 +1,5 @@
-from scripts.helpful_scripts import OPENSEA_FORMAT, get_account, SimpleCollectible
+from scripts.helpful_scripts import OPENSEA_FORMAT, get_account
+from brownie import SimpleCollectible
 
 sample_token_uri = "https://ipfs.io/ipfs/Qmd9MCGtdVz2miNumBHDbvj8bigSgTwnr4SbyH6DNnpWdt?filename=0-PUG.json"
 
