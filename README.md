@@ -5,9 +5,9 @@
 <br/>
 <p align="center">
 <a href="https://chain.link" target="_blank">
-<img src="https://raw.githubusercontent.com/juliocslima/nft-mix/main/images/shiba-inu.png" width="225" alt="NFT Shiba Inu">
-<img src="https://raw.githubusercontent.com/juliocslima/nft-mix/main/images/pug.png" width="225" alt="NFT Pug">
-<img src="https://raw.githubusercontent.com/juliocslima/nft-mix/main/images/st-bernard.png" width="225" alt="NFT St.Bernard">
+<img src="https://github.com/juliocslima/nft-py-v2/blob/main/images/shiba-inu.png" width="225" alt="NFT Shiba Inu">
+<img src="https://github.com/juliocslima/nft-py-v2/blob/main/images/pug.png?raw=true" width="225" alt="NFT Pug">
+<img src="https://github.com/juliocslima/nft-py-v2/blob/main/images/st-bernard.png" width="225" alt="NFT St.Bernard">
 </a>
 </p>
 <br/>
