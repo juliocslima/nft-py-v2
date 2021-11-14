@@ -21,6 +21,8 @@ LOCAL_BLOCKCHAIN_ENVIRONMENTS = NON_FORKED_LOCAL_BLOCKCHAIN_ENVIRONMENTS + [
     "matic-fork",
 ]
 
+BREED_MAPPING = {0: "PUG", 1: "SHIBA_INU", 2: "ST_BERNARD"}
+
 contract_to_mock = {
     "link_token": LinkToken,
     "eth_usd_price_feed": MockV3Aggregator,
@@ -39,6 +41,10 @@ def get_account(index=None, id=None):
     if network.show_active() in config["networks"]:
         return accounts.add(config["wallets"]["from_key"])
     return None
+
+
+def get_breed(breed_number):
+    return BREED_MAPPING[breed_number]
 
 
 def get_contract(contract_name):

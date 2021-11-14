@@ -1,6 +1,6 @@
 from scripts.helpful_scripts import LOCAL_BLOCKCHAIN_ENVIRONMENTS, get_account
 from brownie import network
-from scripts.deploy_and_create import deploy_and_create
+from scripts.simple_collectible.deploy_and_create import deploy_and_create
 import pytest
 
 
